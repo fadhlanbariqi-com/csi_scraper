@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+playwright
+selenium==4.18.1
+undetected-chromedriver
+#selenium
+tqdm
+tokopaedi
+bs4
